@@ -6,7 +6,4 @@ HTML (HyperText Markup Language) is a markup language that tells web browsers ho
 3. Adding images
 4. Embeding tweets
 5. Adding, headers, footers,a main, a body and articles
-6. Creating a unique website
-
-# Technologies used 
- HTML
+6. Creating a unique websites
