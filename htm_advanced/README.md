@@ -1,5 +1,5 @@
 # HTML advanced
-The purpose of this project is to implement from scratch a webpage from a designer file from figma
+>> The purpose of this project is to implement from scratch a webpage from a designer file from figma
 ## Description
 Create a usefull website using HTML semantic and CSS.
 ### EDITOR
