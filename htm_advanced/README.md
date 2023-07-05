@@ -21,6 +21,6 @@ Visual Studio code
 6.Understand and apply advanced HTML structures.
 
 ### Acknowledgement
-ALX HTML resources
-Figma
-HTML Tutorial
+1. ALX HTML resources
+2. Figma
+3. HTML Tutorial
